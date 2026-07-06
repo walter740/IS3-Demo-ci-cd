@@ -13,7 +13,7 @@ from app.liquidacion import Liquidacion
 
 app = FastAPI(
     title="API Liquidación de Sueldos",
-    description="Demo de CI/CD - cálculo de liquidación de sueldos de empleados",
+    description="Schoemberger Walter Juniors (pa probar si anda)",
     version="1.0.1",
 )
 
